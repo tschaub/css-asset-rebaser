@@ -1,0 +1,25 @@
+{
+  "name": "css-asset-rebaser",
+  "version": "0.0.0",
+  "description": "Copy assets from node_modules and rewrite URLs in CSS",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschaub/css-asset-rebaser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tschaub/css-asset-rebaser/issues"
+  },
+  "homepage": "https://github.com/tschaub/css-asset-rebaser#readme",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "devDependencies": {
+    "css": "^2.2.1",
+    "eslint": "^1.9.0",
+    "eslint-config-tschaub": "^2.0.0",
+    "fs-extra": "^0.26.2",
+    "gulp-util": "^3.0.7"
+  }
+}
