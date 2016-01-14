@@ -1,6 +1,6 @@
 {
   "name": "css-asset-rebaser",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Copy assets from node_modules and rewrite URLs in CSS",
   "main": "lib/index.js",
   "license": "MIT",
