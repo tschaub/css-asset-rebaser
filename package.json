@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "eslint": "2.11.1",
-    "eslint-config-tschaub": "4.0.0"
+    "eslint-config-tschaub": "5.0.0"
   },
   "dependencies": {
     "css": "^2.2.1",
