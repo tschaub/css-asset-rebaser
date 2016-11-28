@@ -16,7 +16,7 @@
     "test": "eslint lib"
   },
   "devDependencies": {
-    "eslint": "3.10.2",
+    "eslint": "3.11.1",
     "eslint-config-tschaub": "5.0.0"
   },
   "dependencies": {
