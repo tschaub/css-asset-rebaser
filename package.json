@@ -22,7 +22,7 @@
   "dependencies": {
     "css": "^2.2.1",
     "fs-extra": "^1.0.0",
-    "gulp-util": "^3.0.7"
+    "gulp-util": "^3.0.8"
   },
   "eslintConfig": {
     "extends": "tschaub"
