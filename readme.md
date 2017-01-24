@@ -1,5 +1,7 @@
 # `css-asset-rebaser`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/css-asset-rebaser.svg)](https://greenkeeper.io/)
+
 A gulp plugin for copying assets from `node_modules` and rewriting URLs in CSS.
 
 ## Example use
