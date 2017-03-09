@@ -16,12 +16,12 @@
     "test": "eslint lib"
   },
   "devDependencies": {
-    "eslint": "3.1.0",
+    "eslint": "3.10.2",
     "eslint-config-tschaub": "5.0.0"
   },
   "dependencies": {
     "css": "^2.2.1",
-    "fs-extra": "^0.26.2",
+    "fs-extra": "^1.0.0",
     "gulp-util": "^3.0.7"
   },
   "eslintConfig": {
