@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "css": "^2.2.1",
-    "fs-extra": "^2.0.0",
+    "fs-extra": "^7.0.0",
     "gulp-util": "^3.0.7"
   },
   "eslintConfig": {
